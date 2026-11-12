@@ -1,4 +1,4 @@
-<h1 align="center">Opa, seja bem vindo ao meu git!</h1>
+<h1 align="center">Opa! seja bem vindo ao meu git!</h1>
 
 <p align="center">
   Estudante de Estatística na <a href="https://www.unb.br">Universidade de Brasília (UnB)</a> · ciência de dados para a vigilância em saúde no <a href="https://cenarios.unb.br">Programa Cenários (NESP/UnB)</a>
