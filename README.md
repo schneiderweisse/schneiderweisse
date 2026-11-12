@@ -92,6 +92,7 @@ Previsão do **ritmo de corrida e da degradação dos pneus** na F1 com redes re
   <a href="https://rstudio.github.io/bslib/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/bslib.png" height="90" alt="bslib" title="bslib"></a>
   <a href="https://rinterface.github.io/bs4Dash/"><img src="https://raw.githubusercontent.com/RinteRface/bs4Dash/master/man/figures/logo.png" height="90" alt="bs4Dash" title="bs4Dash"></a>
   <a href="https://deanattali.com/shinyjs/"><img src="https://raw.githubusercontent.com/daattali/shinyjs/master/inst/img/hex.png" height="90" alt="shinyjs" title="shinyjs"></a>
+  <a href="https://dreamrs.github.io/fresh/"><img src="https://raw.githubusercontent.com/dreamRs/fresh/master/man/figures/fresh-logo.png" height="90" alt="fresh" title="fresh"></a>
   <a href="https://rstudio.github.io/htmltools/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/htmltools.png" height="90" alt="htmltools" title="htmltools"></a>
   <a href="https://dplyr.tidyverse.org"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/dplyr.png" height="90" alt="dplyr" title="dplyr"></a>
   <a href="https://tidyr.tidyverse.org"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/tidyr.png" height="90" alt="tidyr" title="tidyr"></a>
@@ -103,15 +104,17 @@ Previsão do **ritmo de corrida e da degradação dos pneus** na F1 com redes re
   <a href="https://glue.tidyverse.org"><img src="https://raw.githubusercontent.com/tidyverse/glue/main/man/figures/logo.png" height="90" alt="glue" title="glue"></a>
   <a href="https://ggplot2.tidyverse.org"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/ggplot2.png" height="90" alt="ggplot2" title="ggplot2"></a>
   <a href="https://scales.r-lib.org"><img src="https://raw.githubusercontent.com/r-lib/scales/main/man/figures/logo.png" height="90" alt="scales" title="scales"></a>
-  <a href="https://plotly.com/r/"><img src="https://raw.githubusercontent.com/plotly/plotly.R/master/man/figures/plotly.png" height="90" alt="plotly" title="plotly"></a>
-  <a href="https://r-spatial.github.io/sf/"><img src="https://raw.githubusercontent.com/r-spatial/sf/main/man/figures/logo.png" height="90" alt="sf" title="sf"></a>
   <a href="https://ipeagit.github.io/geocodebr/"><img src="https://raw.githubusercontent.com/ipeaGIT/geocodebr/main/r-package/man/figures/logo.png" height="90" alt="geocodebr" title="geocodebr"></a>
-  <a href="https://r.duckdb.org"><img src="https://raw.githubusercontent.com/duckdb/duckdb-r/main/man/figures/logo.svg" height="90" alt="duckdb" title="duckdb"></a>
+  <a href="https://ipeagit.github.io/enderecobr/"><img src="https://raw.githubusercontent.com/ipeaGIT/enderecobr/main/man/figures/logo.svg" height="90" alt="enderecobr" title="enderecobr"></a>
   <a href="https://rdatatable.gitlab.io/data.table/"><img src="https://raw.githubusercontent.com/Rdatatable/data.table/master/.graphics/logo.png" height="90" alt="data.table" title="data.table"></a>
   <a href="https://httr2.r-lib.org"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/httr2.png" height="90" alt="httr2" title="httr2"></a>
 </p>
 
 <p>
+  <sub>Sem hex sticker oficial:</sub><br>
+  <a href="https://plotly.com/r/"><img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="plotly"></a>
+  <a href="https://r-spatial.github.io/sf/"><img src="https://img.shields.io/badge/sf-555?style=flat-square" alt="sf"></a>
+  <a href="https://r.duckdb.org"><img src="https://img.shields.io/badge/duckdb-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="duckdb"></a>
   <a href="https://rstudio.github.io/leaflet/"><img src="https://img.shields.io/badge/leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="leaflet"></a>
   <a href="https://glin.github.io/reactable/"><img src="https://img.shields.io/badge/reactable-555?style=flat-square" alt="reactable"></a>
   <a href="https://rstudio.github.io/DT/"><img src="https://img.shields.io/badge/DT-555?style=flat-square" alt="DT"></a>
@@ -119,7 +122,6 @@ Previsão do **ritmo de corrida e da degradação dos pneus** na F1 com redes re
   <a href="https://datastorm-open.github.io/visNetwork/"><img src="https://img.shields.io/badge/visNetwork-555?style=flat-square" alt="visNetwork"></a>
   <a href="https://dbi.r-dbi.org"><img src="https://img.shields.io/badge/DBI-555?style=flat-square" alt="DBI"></a>
   <a href="https://rpostgres.r-dbi.org"><img src="https://img.shields.io/badge/RPostgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="RPostgres"></a>
-  <a href="https://github.com/ipeaGIT/enderecobr"><img src="https://img.shields.io/badge/enderecobr-555?style=flat-square" alt="enderecobr"></a>
   <a href="https://posit-dev.github.io/r-shinylive/"><img src="https://img.shields.io/badge/shinylive-447099?style=flat-square&logo=posit&logoColor=white" alt="shinylive"></a>
 </p>
 
