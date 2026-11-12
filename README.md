@@ -111,7 +111,6 @@ Previsão do **ritmo de corrida e da degradação dos pneus** na F1 com redes re
 </p>
 
 <p>
-  <sub>Sem hex sticker oficial:</sub><br>
   <a href="https://plotly.com/r/"><img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="plotly"></a>
   <a href="https://r-spatial.github.io/sf/"><img src="https://img.shields.io/badge/sf-555?style=flat-square" alt="sf"></a>
   <a href="https://r.duckdb.org"><img src="https://img.shields.io/badge/duckdb-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="duckdb"></a>
